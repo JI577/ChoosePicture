@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<set xmlns:android="http://schemas.android.com/apk/res/android">
+   <translate
+       android:duration="0"
+       android:fromYDelta="0"
+       android:toYDelta="50%p" />
+
+   <alpha
+       android:duration="0"
+       android:fromAlpha="0.5"
+       android:toAlpha="0.0" />
+</set>  
+<!--  
+fromAlpha:开始时透明度  
+toAlpha：结束时透明度  
+duration：动画持续时间  
+
+淡出
+
+ -->  
